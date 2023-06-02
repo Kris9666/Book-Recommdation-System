@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+
+.navbar{
+    background-color: #00a65a;
+}
+
+.text-white-size{
+    color: white;
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+
+.text-white{
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+
+.col-md-3{
+    margin-top: 150px;
+}
